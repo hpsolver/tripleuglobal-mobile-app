@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105114952896",
+    "project_id": "tripleuglobal-91822",
+    "storage_bucket": "tripleuglobal-91822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105114952896:android:c347240f238b51a406b925",
+        "android_client_info": {
+          "package_name": "com.tripleuglobal.tripleuglobal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105114952896-m55bvmdbg8bkg1b79k872eee63vb1i6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSON-y1RfxvIrknFxdtmxnb0Bx23UNwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105114952896-m55bvmdbg8bkg1b79k872eee63vb1i6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
